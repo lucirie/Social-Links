@@ -1,3 +1,18 @@
+body {
+  background-color: #141414;
+  color: white;
+}
+
+.container {
+  background-color: #1F1F1F;
+}
+
+.links {
+  background-color: #333333;
+  text-decoration: none;
+  color: white;
+}
+
 /*
   Josh's Custom CSS Reset
   https://www.joshwcomeau.com/css/custom-css-reset/
