@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Preview
 
-![Preview of the website](./Solution/Preview.mp4)
+![Preview of the website](./Solution/Preview.gif)
 
 ### Links
 
