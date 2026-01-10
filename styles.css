@@ -1,9 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
 body {
   background-color: #141414;
   color: white;
   display: grid;
   place-items: center;
   min-height: 100vh;
+  font-family: 'Inter';
+  font-weight: 300;
 }
 
 .container {
@@ -12,17 +16,28 @@ body {
   align-items: center;
   background-color: #1F1F1F;
   max-height: 700px;
-  max-width: 350px;
+  max-width: 380px;
   height: 80%;
   width: 90%;
   border-radius: 10px;
 
 }
 
+.name {
+  font-weight: 400;
+}
+
+.location {
+  font-weight: 450;
+  color: hsl(75, 94%, 57%);
+  font-size: 1rem;
+}
+
 .links {
   background-color: #333333;
   text-decoration: none;
   color: white;
+  font-weight: 500;
 }
 
 /*
