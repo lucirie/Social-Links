@@ -32,17 +32,19 @@ body {
 .name {
   font-weight: 400;
   font-size: 1.8rem;
+  margin: 0;
 }
 
 .location {
   font-weight: 450;
   color: hsl(75, 94%, 57%);
   font-size: 1rem;
+  margin: 8px 0 15px 0;
 }
 
 .description {
   font-size: 0.9rem;
-  margin: 10px 0;
+  margin: 15px 0;
 }
 
 .links {
